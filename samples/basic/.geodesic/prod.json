@@ -1,0 +1,6 @@
+{
+    "module_name": "basic",
+    "dependencies": {
+        "fs-extra": "^0.23.0"
+    }
+}

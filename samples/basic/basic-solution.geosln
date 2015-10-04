@@ -1,0 +1,58 @@
+{
+	"projects": [
+		{
+			"name": "program-A",
+			"path": "program-A/program-A.geoproj",
+			"project_id": "0198a09b-728d-4d00-9535-a9333ea7349d",
+			"project_type": "67960e57-cc69-44b8-b667-ecfc9c29d635"
+		},
+		{
+			"name": "class-project-A",
+			"path": "class-project-A/class-project-A.geoproj",
+			"project_id": "abb1a5c1-4c2b-43aa-be28-7337d9c42a2c",
+			"project_type": "0d62ac32-7d4f-4582-9eb4-98eecd5d52d5"
+		},
+		{
+			"name": "class-project-B",
+			"path": "class-project-B/class-project-B.geoproj",
+			"project_id": "fb2ee969-97e9-4224-80a7-6f25d435f564",
+			"project_type": "0d62ac32-7d4f-4582-9eb4-98eecd5d52d5"
+		}
+	],
+	"solution_configs": [
+		{ "config": "debug", "environment": "nodejs", "platform": "any" },
+		{ "config": "release", "environment": "nodejs", "platform": "any" }
+	],
+	"project_configs": [
+		{
+			"id": "0198a09b-728d-4d00-9535-a9333ea7349d",
+			"solution_config": { "config": "debug", "environment": "nodejs", "platform": "any" },
+			"active_config": { "config": "debug", "environment": "nodejs", "platform": "any" }
+		},
+		{
+			"id": "0198a09b-728d-4d00-9535-a9333ea7349d", 
+			"solution_config": { "config": "release", "environment": "nodejs", "platform": "any" },
+			"active_config": { "config": "release", "environment": "nodejs", "platform": "any" }
+		},
+		{
+			"id": "abb1a5c1-4c2b-43aa-be28-7337d9c42a2c",
+			"solution_config": { "config": "debug", "environment": "nodejs", "platform": "any" },
+			"active_config": { "config": "debug", "environment": "nodejs", "platform": "any" }
+		},
+		{
+			"id": "abb1a5c1-4c2b-43aa-be28-7337d9c42a2c", 
+			"solution_config": { "config": "release", "environment": "nodejs", "platform": "any" },
+			"active_config": { "config": "release", "environment": "nodejs", "platform": "any" }
+		},
+		{
+			"id": "fb2ee969-97e9-4224-80a7-6f25d435f564",
+			"solution_config": { "config": "debug", "environment": "nodejs", "platform": "any" },
+			"active_config": { "config": "debug", "environment": "nodejs", "platform": "any" }
+		},
+		{
+			"id": "fb2ee969-97e9-4224-80a7-6f25d435f564", 
+			"solution_config": { "config": "release", "environment": "nodejs", "platform": "any" },
+			"active_config": { "config": "release", "environment": "nodejs", "platform": "any" }
+		}
+	]
+}
